@@ -4,9 +4,9 @@ This Android application produces a list of popular movies containing the word "
 
 This program utilizes the React Native framework using a hybrid of syntaxes between HTML5 and JavaScript.
 
-react-movies reflects the React Native tutorial on building applications for iOS and Android.
+   *react-movies reflects the React Native tutorial on building applications for iOS and Android.
 
-The code shown below can be found in the file index.android.js
+   *The code shown below can be found in the file index.android.js
 
 ```
 /**
