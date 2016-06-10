@@ -6,6 +6,8 @@ This program utilizes the React Native framework using a hybrid of syntaxes betw
 
 react-movies reflects the React Native tutorial on building applications for iOS and Android.
 
+The code shown below can be found in the file index.android.js
+
 ```
 /**
  * Brandon Santana
