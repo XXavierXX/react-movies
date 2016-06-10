@@ -1,4 +1,4 @@
-# react-movies
+# react-movies - This program reflects the React Native tutorial on building applications for iOS and Android.
 
 This Android application produces a list of popular movies containing the word "react."
 
